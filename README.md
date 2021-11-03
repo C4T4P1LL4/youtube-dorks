@@ -20,7 +20,7 @@ https://youtu.be/t_Ho_KDPi_U
 * .
 * /'/
 * /.-.
-
+search for "periods and emojis" using autocomplete
 # Sites
 
 * https://default-filename-tv.neocities.org
