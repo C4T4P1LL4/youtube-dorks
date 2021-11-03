@@ -1,6 +1,11 @@
 # youtube-dorks
 youtube dork queries for default file names
 
+# Videos about it
+
+https://youtu.be/SOw0TcHSUxc
+https://youtu.be/t_Ho_KDPi_U
+
 # Dorks
 * IMG 3356
 * IMG_0001
